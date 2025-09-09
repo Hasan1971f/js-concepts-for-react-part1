@@ -16,4 +16,4 @@ products.forEach(product => console.log(product))
 products.forEach(product => console.log(product.color))
 
 const cheap = products.filter(goods => goods.price <= 500)
-console.log(cheap)
+console.log(cheapgit)
